@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Zahra Nabila Khairunisa</h1>
+<h1 align="center">Hi 👋, I'm Zahra Nabhila Khairunnisa</h1>
 <h3 align="center">a little programmer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaraozee&label=Profile%20views&color=000000&style=plastic" alt="zaraozee" /> </p>
 
-- contact me [zahra.nabila.khairunisa@gmail.com](zahra.nabila.khairunisa@gmail.com)
+- contact me [zahra.nabhila.khairunnisa@gmail.com](zahra.nabhila.khairunnisa@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
